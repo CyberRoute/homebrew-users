@@ -1,4 +1,4 @@
-class WeatherProCli < Formula
+class UsersLookup < Formula
   desc "Simple CLI that reports OS users"
   homepage "https://github.com/CyberRoute/users-lookup"
   url "https://github.com/CyberRoute/users-lookup/archive/refs/tags/v1.0.0.tar.gz"
